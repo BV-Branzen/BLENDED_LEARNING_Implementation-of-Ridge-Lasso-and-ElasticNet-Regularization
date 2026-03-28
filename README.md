@@ -127,13 +127,9 @@ plt.show()
 
 
 
-
-
-
-
-
-
 <img width="296" height="498" alt="image" src="https://github.com/user-attachments/assets/7b715028-4da4-4cc3-8d29-d22bf831a48d" />
+
+
 <img width="296" height="498" alt="image" src="https://github.com/user-attachments/assets/45fa3e7f-2864-4ba1-b9ce-3723b7275713" />
 
 ## Result:
