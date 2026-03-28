@@ -123,6 +123,8 @@ plt.show()
 ```
 
 ## Output:
+<img width="672" height="68" alt="image" src="https://github.com/user-attachments/assets/6613d556-1f8d-4310-804f-5167c7e92789" />
+
 
 <img width="296" height="498" alt="image" src="https://github.com/user-attachments/assets/7b715028-4da4-4cc3-8d29-d22bf831a48d" />
 
